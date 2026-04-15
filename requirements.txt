@@ -1,0 +1,12 @@
+# Core
+langchain
+langgraph
+langchain-core
+
+# Groq (fast, free tier available)
+# Get key: https://console.groq.com
+langchain-groq
+
+# Gemini (free tier available)
+# Get key: https://aistudio.google.com/app/apikey
+langchain-google-genai
